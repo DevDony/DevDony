@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DevDony
+- 👀 I’m interested in prorgamming
+- 🌱 I’m currently learning C++ and linux 
